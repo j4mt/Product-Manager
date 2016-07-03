@@ -1,0 +1,10 @@
+2016-07-03 22:54:56 INFO  MainApp:119 - Loaded Products
+2016-07-03 22:54:56 INFO  MainApp:104 - Displaying menu
+2016-07-03 22:55:10 INFO  MainApp:39 - Entered menu selection : List products
+2016-07-03 22:55:10 INFO  MainApp:77 - listed product's : 
+2016-07-03 22:55:10 INFO  MainApp:104 - Displaying menu
+2016-07-03 22:55:22 INFO  MainApp:104 - Displaying menu
+2016-07-03 22:55:46 INFO  MainApp:72 - Deleted product : 12345678from list
+2016-07-03 22:55:46 INFO  MainApp:104 - Displaying menu
+2016-07-03 22:55:52 INFO  MainApp:77 - listed product's : 
+2016-07-03 22:55:52 INFO  MainApp:104 - Displaying menu
