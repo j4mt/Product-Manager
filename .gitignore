@@ -8,7 +8,9 @@
 out
 gen
 .gitignore
-.idea/
-# src/main/java/productinventory/business/
-# src/test/java/org/
-target/
+#idea/
+"C:\\log4j-application.log"
+Project Manager App.iml
+#pom.xml
+#src/
+log4j-application.log
